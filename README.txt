@@ -1,5 +1,4 @@
 This project is made by Yash Patel
-Email: ypatel9@binghamton.edu
 
 In order to compile this code one would need the lastest version of python and following packages
 numpy
